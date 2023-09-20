@@ -1,8 +1,5 @@
 # WebDevelopment
 This repo holds Web Based Projects.
-<div align='center'>
-  <img src='https://github.com/vibhumishra707/WebDevelopment/assets/40596302/e6ad657c-ab1e-4575-81e6-c57215bebaf7'>
-</div>
----
+![htmlcssjs-details](https://github.com/vibhumishra707/WebDevelopment/assets/40596302/4a2cfc75-7021-4d82-af81-cba9f9c225ec)
 ## Checkout:
-1. <a href="https://vibhumishra707.github.io/WebDevelopment/Omnifood/index.html"><h2>Omnifood</h2></a>
+1. **[Omnifood](https://vibhumishra707.github.io/WebDevelopment/Omnifood/index.html)**
